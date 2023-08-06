@@ -1,3 +1,5 @@
+# i have made a slight changes as this code wont ask total number of charecter; 
+# insted this code directly asks the number charecters,numbers and symbols and generated a random password
 import random as r
 
 # input
